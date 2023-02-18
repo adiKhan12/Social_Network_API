@@ -62,3 +62,18 @@ The tests are implemented using the Mocha testing framework and the Chai asserti
 To automate the build process for this project, you can use a build automation tool like Jenkins or Travis CI.
 
 An example pipeline script for Jenkins is provided in the file `Jenkinsfile`. This script checks out the project code, installs the dependencies, runs linting and testing, builds and publishes the code, and deploys it to the desired environment.
+
+## Credits
+
+This project was created by Adnan Khan. and is released under the MIT License.
+
+The project was inspired by various online resources and tutorials, including:
+
+- [Node.js documentation](https://nodejs.org/en/docs/)
+- [Express documentation](https://expressjs.com/)
+- [MongoDB documentation](https://www.mongodb.com/docs/)
+- [Mocha documentation](https://mochajs.org/)
+- [Chai documentation](https://www.chaijs.com/)
+- [Jenkins documentation](https://www.jenkins.io/doc/)
+- [Travis CI documentation](https://docs.travis-ci.com/)
+
