@@ -1,4 +1,4 @@
 {
-    "MONGODB_URI": "mongodb://localhost/example-project-dev"
+    "MONGODB_URI": "mongodb://localhost/Social_Network_API_dev"
   }
   

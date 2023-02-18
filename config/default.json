@@ -1,7 +1,6 @@
 {
-    "PORT": 3000,
-    "MONGODB_URI": "mongodb://localhost/example-project",
-    "JWT_SECRET": "supersecret",
-    "JWT_EXPIRATION_TIME": 3600
-  }
-  
+  "PORT": 3000,
+  "MONGODB_URI": "mongodb://localhost/Social_Network_API",
+  "JWT_SECRET": "supersecret",
+  "JWT_EXPIRATION_TIME": 3600
+}
