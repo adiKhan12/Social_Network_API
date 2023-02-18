@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/example-user/example-project.git'
+                git 'https://github.com/adiKhan12/Social_Network_API.git'
             }
         }
 
