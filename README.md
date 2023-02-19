@@ -1,6 +1,6 @@
 # Social_Network_API
 
-This is an example web application built with Node.js, Express, and MongoDB.
+This is Simple Blog web application built with Node.js, Express, and MongoDB. This web app basically explore how you can do testing in your node js APIs, how it can be deployed to hosting platform like heroku, how workflow pipeline works.
 ## Table of Contents
 
 - Requirements
